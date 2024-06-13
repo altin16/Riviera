@@ -1,0 +1,21 @@
+body {background-color: #ffc736;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+img {height: 70vh;margin-top: 12vh;margin-left: 25vh;text-align: left;}
+
+.überschrift {color: rgb(255, 255, 255);text-align: right;margin-right: 42vh;font-size: xx-large;margin-top:80vh;}
+
+.container {margin-left:60vh;margin-top: -90vh;font-size: xx-large;margin-top: -70vh;}
+
+h1 {text-align: center;}
+
+.adresse {text-align: center;}
+
+p { line-height: 10px; }
+
+h4 {text-align: center;}
+
+.offnung {text-align: center;}
+
+hr {width: 60vh;border-color: rgb(0, 0, 0); border-radius: 20px;}
